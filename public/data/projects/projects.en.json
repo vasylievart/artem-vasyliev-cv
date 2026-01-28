@@ -1,0 +1,60 @@
+[
+   {
+      "name": "Coctails Tour Barcelona",
+      "url": "https://coctails-tour.vercel.app",
+      "desktop_image": "/intro/desktop/coctails_tour_intro.webp",
+      "mobile_image": "/intro/mobile/coctails_tour_intro_mobile.webp",
+      "alt": "Coctails Tour Web Page Intro",
+      "tag": "coctails-tour",
+      "description": "Web application for booking cocktail tours in Barcelona. The platform features smooth animations, a fast-booking option with the nearest available dates, and flexible booking management — users can customize, update, or cancel reservations. The system also includes an administrative dashboard that allows managers to handle bookings, manage users, and view statistics without direct database access.",
+      "stack": [
+         {
+         "icon": "/stack/typescript_icon_white.png",
+         "alt": "TypeScript"
+         },
+         {
+         "icon": "/stack/react_icon_white.png",
+         "alt": "React"
+         },
+         {
+         "icon": "/stack/next_js_icon_white.png",
+         "alt": "Next.js"
+         },
+         {
+            "icon": "/stack/tailwind_icon_white.png",
+            "alt": "Tailwind"
+         },
+         {
+            "icon": "/stack/supabase_icon_white.png",
+            "alt": "Supabase"
+         },
+         {
+            "icon": "/stack/vercel_icon_white.png",
+            "alt": "Vercel"
+         }
+      ] 
+   },
+   {
+      "name": "Charge Connecting",
+      "url": "https://charge-connecting.netlify.app/",
+      "desktop_image":"/intro/desktop/charge_connecting_intro.webp",
+      "mobile_image": "/intro/mobile/charge_connecting_mobile_intro.webp",
+      "alt": "Charge Connecting Web Pge Intro",
+      "tag": "charge-connecting",
+      "description": "This web page offers a specialized range of secure phone charging lockers designed to keep your customers connected in any environment. Our multi-slot units provide a reliable, high-speed charging solution that allows guests to safely lock away their devices while they enjoy your venue. By offering this essential service, business owners can significantly improve customer satisfaction and encourage longer stay times. Explore our collection of durable, sleek charging stations today to find the perfect fit for your space.",
+      "stack": [
+         {
+         "icon": "/stack/javascript_icon_white.png",
+         "alt": "JavaScript"
+         },
+         {
+            "icon": "/stack/css_icon_white.png",
+            "alt": "CSS"
+         },
+         {
+            "icon": "/stack/netlify_icon_white.png",
+            "alt": "Netlify"
+         }
+      ]
+   }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "url": "/charge-connecting/charge-connecting-1.webp",
+    "alt": "Charge Connecting landing page",
+    "description": "Landing page presenting key information about the company and its charging locker solutions. Includes a language switcher in the top-right corner. The web application supports English, Spanish, Catalan, French, and Portuguese."
+  },
+  {
+    "url": "/charge-connecting/charge-connecting-2.webp",
+    "alt": "Video section",
+    "description": "Dynamic video section that allows the company owner to upload and manage promotional or informational videos directly through the admin panel."
+  },
+  {
+    "url": "/charge-connecting/charge-connecting-3.webp",
+    "alt": "Post-video section with product details",
+    "description": "Product information section displayed after the video, highlighting key features, benefits, and use cases of the charging lockers."
+  },
+  {
+    "url": "/charge-connecting/charge-connecting-4.webp",
+    "alt": "Price calculator",
+    "description": "Interactive price calculator that allows potential customers to estimate the approximate cost of a charging locker setup based on their needs."
+  },
+  {
+    "url": "/charge-connecting/charge-connecting-5.webp",
+    "alt": "Contact Us section",
+    "description": "Contact form that enables customers to quickly get in touch with a Charge Connecting representative for inquiries or quotes."
+  },
+  {
+    "url": "/charge-connecting/charge-connecting-6.webp",
+    "alt": "Reviews section",
+    "description": "Customer reviews section presented as a carousel slider, showcasing feedback from businesses already using Charge Connecting lockers."
+  },
+  {
+    "url": "/charge-connecting/charge-connecting-8.webp",
+    "alt": "Chatbot",
+    "description": "Multilingual chatbot designed to answer frequently asked questions and guide visitors, improving user support and engagement."
+  }
+]
+

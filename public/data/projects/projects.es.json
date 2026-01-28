@@ -1,0 +1,60 @@
+[
+   {
+      "name": "Coctails Tour Barcelona",
+      "url": "https://coctails-tour.vercel.app",
+      "desktop_image": "/intro/desktop/coctails_tour_intro.webp",
+      "mobile_image": "/intro/mobile/coctails_tour_intro_mobile.webp",
+      "alt": "Coctails Tour Web Page Intro",
+      "tag": "coctails-tour",
+      "description": "Aplicación web para la reserva de tours de cócteles en Barcelona. La plataforma destaca por sus animaciones fluidas, una opción de reserva rápida con las fechas disponibles más próximas y una gestión de reservas flexible que permite a los usuarios personalizar, actualizar o cancelar sus citas. El sistema también incluye un panel de administración que permite a los gestores manejar las reservas, administrar usuarios y visualizar estadísticas sin necesidad de acceso directo a la base de datos.",
+      "stack": [
+         {
+         "icon": "/stack/typescript_icon_white.png",
+         "alt": "TypeScript"
+         },
+         {
+         "icon": "/stack/react_icon_white.png",
+         "alt": "React"
+         },
+         {
+         "icon": "/stack/next_js_icon_white.png",
+         "alt": "Next.js"
+         },
+         {
+            "icon": "/stack/tailwind_icon_white.png",
+            "alt": "Tailwind"
+         },
+         {
+            "icon": "/stack/supabase_icon_white.png",
+            "alt": "Supabase"
+         },
+         {
+            "icon": "/stack/vercel_icon_white.png",
+            "alt": "Vercel"
+         }
+      ]
+   },
+   {
+      "name": "Charge Connecting",
+      "url": "https://charge-connecting.netlify.app/",
+      "desktop_image":"/intro/desktop/charge_connecting_intro.webp",
+      "mobile_image": "/intro/mobile/charge_connecting_mobile_intro.webp",
+      "alt": "Charge Connecting Web Pge Intro",
+      "tag": "charge-connecting",
+      "description": "Esta página web ofrece una gama especializada de taquillas de carga para móviles seguras, diseñadas para mantener a sus clientes conectados en cualquier entorno. Nuestras unidades multirranura proporcionan una solución de carga rápida y fiable que permite a los usuarios guardar sus dispositivos bajo llave de forma segura mientras disfrutan de su establecimiento. Al ofrecer este servicio esencial, los propietarios de negocios pueden mejorar significativamente la satisfacción del cliente y fomentar tiempos de estancia más prolongados. Explore hoy nuestra colección de estaciones de carga duraderas y elegantes para encontrar la solución perfecta para su espacio.",
+      "stack": [
+         {
+         "icon": "/stack/javascript_icon_white.png",
+         "alt": "JavaScript"
+         },
+         {
+            "icon": "/stack/css_icon_white.png",
+            "alt": "CSS"
+         },
+         {
+            "icon": "/stack/netlify_icon_white.png",
+            "alt": "Netlify"
+         }
+      ]
+   }
+]

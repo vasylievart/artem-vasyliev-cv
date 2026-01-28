@@ -1,0 +1,74 @@
+[
+  {
+    "url": "/coctails-tour/coctails-tour-1.webp",
+    "alt": "Página de inicio de Cocktails Tours Barcelona",
+    "description":
+      "Página de aterrizaje con una sección 'hero' animada que guía a los usuarios hacia el flujo de reserva. Muestra el horario de tour disponible más cercano para reducir la fricción y agilizar la toma de decisiones."
+  },
+  {
+    "url": "/coctails-tour/coctails-tour-2.webp",
+   " alt": "Módulo de selección de fecha y hora del tour",
+    "description":
+      "Módulo interactivo que permite a los usuarios seleccionar una fecha y hora para el tour. El botón 'Reservar ahora' se activa solo después de realizar selecciones válidas."
+  },
+  {
+    "url": "/coctails-tour/coctails-tour-3.webp",
+    "alt": "Formulario de reserva con detalles del cliente",
+    "description":
+      "Formulario de reserva donde los usuarios pueden modificar la fecha, hora y número de participantes, y proporcionar datos personales como nombre completo, correo electrónico y número de teléfono. Incluye una opción para solicitar tours privados con requisitos personalizados."
+  },
+  {
+    "url": "/coctails-tour/coctails-tour-4.webp",
+    "alt": "Sección de Preguntas Frecuentes",
+    "description":
+      "Sección de preguntas frecuentes (FAQ) que ofrece respuestas a dudas comunes sobre los tours, las reservas y las políticas para reducir las solicitudes de soporte."
+  },
+  {
+    "url": "/coctails-tour/coctails-tour-5.webp",
+    "alt": "Buscar reserva por correo electrónico y número de teléfono",
+    "description":
+      "Formulario de búsqueda de reservas que permite a los clientes recuperar su reserva utilizando su correo electrónico y número de teléfono, reduciendo la dependencia de servicios de terceros y mejorando la experiencia del usuario (UX)."
+  },
+  {
+    "url": "/coctails-tour/coctails-tour-6.webp",
+    "alt": "Diálogo de actualización o cancelación de reserva",
+    "description":
+      "Módulo emergente para actualizar o cancelar una reserva existente, reutilizando la misma lógica de formulario validada que en el flujo de reserva."
+  },
+  {
+    "url": "/coctails-tour/coctails-tour-7.webp",
+    "alt": "Pantalla de inicio de sesión del panel de administración",
+    "description":
+      "Pantalla de inicio de sesión segura para administradores que utiliza autenticación mediante correo electrónico y contraseña."
+  },
+  {
+    "url": "/coctails-tour/coctails-tour-8.webp",
+    "alt": "Vista general del panel de administración",
+    "description":
+      "Inicio del panel de administración que muestra datos de reservas en tiempo real para el día actual, incluyendo información del cliente y del horario."
+  },
+  {
+    "url": "/coctails-tour/coctails-tour-9.webp",
+    "alt": "Página de gestión de reservas del administrador",
+    "description":
+      "Interfaz de gestión que muestra las reservas de hoy, de esta semana, de este mes o de un rango de fechas personalizado."
+  },
+  {
+    "url": "/coctails-tour/coctails-tour-10.webp",
+    "alt": "Página de gestión de horarios del administrador",
+    "description":
+      "Panel de gestión de horarios donde los administradores pueden crear, habilitar o deshabilitar los horarios de tour disponibles."
+  },
+  {
+    "url": "/coctails-tour/coctails-tour-11.webp",
+    "alt": "Panel de estadísticas y análisis del administrador",
+    "description":
+      "Panel de estadísticas que muestra métricas clave como el volumen de reservas, los ingresos y los países de los clientes para períodos de tiempo seleccionados."
+  },
+  {
+    "url": "/coctails-tour/coctails-tour-12.webp",
+    "alt": "Interfaz de gestión de usuarios del administrador",
+    "description":
+      "Sección de gestión de usuarios que permite a los administradores crear y eliminar usuarios del panel con acceso controlado."
+  }
+]

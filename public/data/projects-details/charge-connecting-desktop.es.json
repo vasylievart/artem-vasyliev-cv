@@ -1,0 +1,37 @@
+[
+  {
+    "url": "/charge-connecting/charge-connecting-1.webp",
+    "alt": "Página de inicio de Charge Connecting",
+    "description": "Página de aterrizaje que presenta información clave sobre la empresa y sus soluciones de taquillas de carga. Incluye un selector de idiomas en la esquina superior derecha. La aplicación web es compatible con inglés, español, catalán, francés y portugués."
+  },
+  {
+    "url": "/charge-connecting/charge-connecting-2.webp",
+    "alt": "Sección de vídeo",
+    "description": "Sección de vídeo dinámica que permite al propietario de la empresa subir y gestionar vídeos promocionales o informativos directamente a través del panel de administración."
+  },
+  {
+    "url": "/charge-connecting/charge-connecting-3.webp",
+    "alt": "Sección posterior al vídeo con detalles del producto",
+    "description": "Sección de información del producto que se muestra después del vídeo, destacando las características clave, beneficios y casos de uso de las taquillas de carga."
+  },
+  {
+    "url": "/charge-connecting/charge-connecting-4.webp",
+    "alt": "Calculadora de precios",
+    "description": "Calculadora de precios interactiva que permite a los clientes potenciales estimar el coste aproximado de una configuración de taquillas de carga según sus necesidades."
+  },
+  {
+    "url": "/charge-connecting/charge-connecting-5.webp",
+    "alt": "Sección de contacto",
+    "description": "Formulario de contacto que permite a los clientes ponerse en contacto rápidamente con un representante de Charge Connecting para consultas o presupuestos."
+  },
+  {
+    "url": "/charge-connecting/charge-connecting-6.webp",
+    "alt": "Sección de reseñas",
+    "description": "Sección de reseñas de clientes presentada como un carrusel deslizante, que muestra los comentarios de empresas que ya utilizan las taquillas de Charge Connecting."
+  },
+  {
+    "url": "/charge-connecting/charge-connecting-8.webp",
+    "alt": "Chatbot",
+    "description": "Chatbot multilingüe diseñado para responder preguntas frecuentes y guiar a los visitantes, mejorando la atención al usuario y el compromiso."
+  }
+]

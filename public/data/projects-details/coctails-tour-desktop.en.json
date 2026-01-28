@@ -1,0 +1,74 @@
+[
+  {
+    "url": "/coctails-tour/coctails-tour-1.webp",
+    "alt": "Cocktails Tours Barcelona landing page",
+    "description":
+      "Landing page with animated hero section guiding users toward the booking flow. Displays the nearest available tour slot to reduce friction and speed up decision-making."
+  },
+  {
+    "url": "/coctails-tour/coctails-tour-2.webp",
+    "alt": "Tour date and time selection module",
+    "description":
+      "Interactive module allowing users to select a tour date and time. The 'Book Now' button becomes active only after valid selections are made."
+  },
+  {
+    "url": "/coctails-tour/coctails-tour-3.webp",
+    "alt": "Booking form with customer details",
+    "description":
+      "Booking form where users can adjust date, time, and number of participants, and provide personal details such as full name, email, and phone number. Includes an option to request private tours with custom requirements."
+  },
+  {
+    "url": "/coctails-tour/coctails-tour-4.webp",
+    "alt": "Frequently Asked Questions section",
+    "description":
+      "FAQ section providing answers to common questions about tours, booking, and policies to reduce support requests."
+  },
+  {
+    "url": "/coctails-tour/coctails-tour-5.webp",
+    "alt": "Find booking by email and phone number",
+    "description":
+      "Booking lookup form allowing customers to retrieve their reservation using their email and phone number, reducing reliance on third-party services and improving UX."
+  },
+  {
+    "url": "/coctails-tour/coctails-tour-6.webp",
+    "alt": "Update or cancel booking dialog",
+    "description":
+      "Popup module for updating or cancelling an existing booking, reusing the same validated form logic as the booking flow."
+  },
+  {
+    "url": "/coctails-tour/coctails-tour-7.webp",
+    "alt": "Admin dashboard login screen",
+    "description":
+      "Secure login screen for administrators using email and password authentication."
+  },
+  {
+    "url": "/coctails-tour/coctails-tour-8.webp",
+    "alt": "Admin dashboard overview",
+    "description":
+      "Admin dashboard home showing real-time booking data for the current day, including customer and slot information."
+  },
+  {
+    "url": "/coctails-tour/coctails-tour-9.webp",
+    "alt": "Admin booking management page",
+    "description":
+      "Management interface displaying bookings for today, this week, this month, or a custom date range."
+  },
+  {
+    "url": "/coctails-tour/coctails-tour-10.webp",
+    "alt": "Admin time slot management page",
+    "description":
+      "Slot management panel where administrators can create, enable, or disable available tour time slots."
+  },
+  {
+    "url": "/coctails-tour/coctails-tour-11.webp",
+    "alt": "Admin statistics and analytics dashboard",
+    "description":
+      "Statistics dashboard displaying key metrics such as booking volume, revenue, and customer countries for selected time periods."
+  },
+  {
+    "url": "/coctails-tour/coctails-tour-12.webp",
+    "alt": "Admin user management interface",
+    "description":
+      "User management section allowing administrators to create and remove dashboard users with controlled access."
+  }
+]

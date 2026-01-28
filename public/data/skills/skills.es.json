@@ -1,0 +1,71 @@
+{
+  "title": "Sobre mí",
+  "story": "Tras 12 años en el sector de la hostelería - pasando de camarero a encargado de restaurante y dueño de negocio - desarrollé una gran disciplina, liderazgo y capacidad para trabajar bajo presión. Al mudarme a España en 2022, decidí dar un giro profesional hacia el desarrollo web, combinando mi formación técnica con una mentalidad enfocada a la resolución de problemas. Desde principios de 2023, he estado estudiando y creando proyectos con JavaScript, TypeScript, React, Next.js, Tailwind CSS y herramientas básicas de backend, compaginándolo con un trabajo a tiempo completo. Aunque soy desarrollador junior, aporto fiabilidad, visión de negocio y una rápida capacidad de aprendizaje en entornos de producción reales. Busco activamente una oportunidad como desarrollador web junior donde pueda contribuir de inmediato y crecer a largo plazo dentro de un equipo.",
+  "skills": [
+    {
+      "technology": "JavaScript",
+      "icon": "/stack/javascript_icon_white.png",
+      "type": "code"
+    },
+    {
+      "technology": "TypeScript",
+      "icon": "/stack/typescript_icon_white.png",
+      "type": "code"
+    },
+    {
+      "technology": "SQL",
+      "icon": "/stack/sql_icon_white.png",
+      "type": "code"
+    },
+    {
+      "technology": "React",
+      "icon": "/stack/react_icon_white.png",
+      "type": "code"
+    },
+    {
+      "technology": "Next.js",
+      "icon": "/stack/next_js_icon_white.png",
+      "type": "code"
+    },
+    {
+      "technology": "CSS",
+      "icon": "/stack/css_icon_white.png",
+      "type": "graphic"
+    },
+    {
+      "technology": "Tailwind",
+      "icon": "/stack/tailwind_icon_white.png",
+      "type": "graphic"
+    },
+    {
+      "technology": "Prisma",
+      "icon": "/stack/prisma_icon_white.png",
+      "type" : "db"
+    },
+    {
+      "technology": "Supabase",
+      "icon": "/stack/supabase_icon_white.png",
+      "type" : "db"
+    },
+    {
+      "technology": "Figma",
+      "icon": "/stack/figma_icon_white.png",
+      "type": "graphic"
+    },
+    {
+      "technology": "Appwrite",
+      "icon": "/stack/appwrite_icon_white.png",
+      "type": "db"
+    },
+      {
+      "technology": "Netlify",
+      "icon": "/stack/netlify_icon_white.png",
+      "type": "deploy"
+    },
+     {
+      "technology": "Vercel",
+      "icon": "/stack/vercel_icon_white.png",
+      "type": "deploy"
+    }
+  ]
+}

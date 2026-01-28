@@ -1,0 +1,47 @@
+{
+  "title":"Professional Experience",
+  "area": "Hospitality & Business Management | 2010 - 2024",
+  "location": "Ukraine, Russia, Spain",
+  "languages": [
+    {
+      "lang": "Spanish",
+      "level": "Fluent"
+    },
+    {
+      "lang": "Catalan",
+      "level": "Intermediate"
+    },
+    {
+      "lang": "English",
+      "level": "Upper-intermediate"
+    },
+    {
+      "lang": "Ukrainian",
+      "level": "Native"
+    },
+    {
+      "lang": "French",
+      "level": "Basic"
+    }
+  ],
+  "skills": 
+    {
+      "competence_1": "Progressed from entry-level roles to restaurant manager and business owner",
+      "competence_2": "Managed teams (5 - 14 people), scheduling, HR, training, and quality control",
+      "competence_3": "Ran and scaled a small coffee-shop chain (5 locations + catering)",
+      "competence_4": "Led operations, budgeting, supplier negotiations, and customer experience",
+      "competence_5": "Worked in high-pressure, multicultural environments and rebuilt career twice due to external crises"
+    },
+  "education": [
+    {
+      "institution": "Ukrainian National University of Railway Transport, Kharkiv",
+      "formation": "Transport Technology Engineering",
+      "degree": "Bachelor degree"
+    },
+    {
+      "institution": "Codefinity",
+      "formation": "Web Development Bootcamp",
+      "degree": "Frontend-focused training with continuous practice and portfolio development"
+    }
+  ]
+}

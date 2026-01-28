@@ -1,0 +1,46 @@
+{
+  "title": "Experiencia Profesional",
+  "area": "Hostelería y Gestión Empresarial | 2010 - 2024",
+  "location": "Ucrania, Rusia, España",
+  "languages": [
+    {
+      "lang": "Español",
+      "level": "Fluido"
+    },
+    {
+      "lang": "Catalán",
+      "level": "Intermedio"
+    },
+    {
+      "lang": "Inglés",
+      "level": "Intermedio alto"
+    },
+    {
+      "lang": "Ucraniano",
+      "level": "Nativo"
+    },
+    {
+      "lang": "Francés",
+      "level": "Básico"
+    }
+  ],
+  "skills": {
+    "competence_1": "Progresión desde puestos iniciales hasta gerente de restaurante y propietario de negocio",
+    "competence_2": "Gestión de equipos (5 - 14 personas), horarios, RR.HH., formación y control de calidad",
+    "competence_3": "Dirección y expansión de una pequeña cadena de cafeterías (5 locales + catering)",
+    "competence_4": "Liderazgo en operaciones, presupuestos, negociación con proveedores y experiencia del cliente",
+    "competence_5": "Trabajo en entornos multiculturales de alta presión y reconstrucción de carrera dos veces debido a crisis externas"
+  },
+  "education": [
+    {
+      "institution": "Universidad Nacional de Transporte Ferroviario de Ucrania, Kharkiv",
+      "formation": "Ingeniería en Tecnología del Transporte",
+      "degree": "Grado"
+    },
+    {
+      "institution": "Codefinity",
+      "formation": "Bootcamp de Desarrollo Web",
+      "degree": "Formación enfocada en Frontend con práctica continua y desarrollo de portafolio"
+    }
+  ]
+}
