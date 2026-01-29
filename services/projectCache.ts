@@ -1,6 +1,5 @@
 import { ProjectCache } from "@/types";
 
-
 const cache = new Map<string, ProjectCache<any>>();
 
 export function getCache<T>(key: string): ProjectCache<T> | undefined {

@@ -29,7 +29,11 @@ const translations: Record<Lang, Record<string, string>> = {
 
 const LanguageContext = createContext<LanguageContextProps | null>(null);
 
-export const LanguageProvider = ({ children }: { children: React.ReactNode }) => {
+export const LanguageProvider = ({
+  children,
+}: {
+  children: React.ReactNode;
+}) => {
   const [lang, setLang] = useState<Lang>("en");
 
   const toggleLang = () => setLang((prev) => (prev === "en" ? "es" : "en"));

@@ -9,7 +9,7 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 
 type Props = {
   images: CarouselImage[];
-  display?: DisplayType
+  display?: DisplayType;
 };
 
 export default function Carousel3D({ images, display }: Props) {
@@ -36,28 +36,23 @@ export default function Carousel3D({ images, display }: Props) {
             getSlideClass(i)
           )}
         >
-          <CarouselCard 
-            active={active} 
-            url={src.url} 
-            alt={src.alt} 
-            display={screen} 
-            description={src.description} 
-            index={i}/>
+          <CarouselCard
+            active={active}
+            url={src.url}
+            alt={src.alt}
+            display={screen}
+            description={src.description}
+            index={i}
+          />
         </div>
       ))}
 
-      <button
-        onClick={prev}
-        className="carousel_button_left"
-      >
-        <ChevronLeft className="opacity-75"/>
+      <button onClick={prev} className="carousel_button_left">
+        <ChevronLeft className="opacity-75" />
       </button>
 
-      <button
-        onClick={next}
-        className="carousel_button_right"
-      > 
-        <ChevronRight className="opacity-75"/>
+      <button onClick={next} className="carousel_button_right">
+        <ChevronRight className="opacity-75" />
       </button>
     </div>
   );

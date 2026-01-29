@@ -9,7 +9,6 @@ export const Sidebar = () => {
   const { t } = useLang();
   const [active, setActive] = useState("about");
 
- 
   useEffect(() => {
     const sections = ["about", "cv", "projects", "contact"];
 
@@ -18,7 +17,11 @@ export const Sidebar = () => {
 
       for (const id of sections) {
         const el = document.getElementById(id);
-        if (el && el.offsetTop <= offset && el.offsetTop + el.offsetHeight > offset) {
+        if (
+          el &&
+          el.offsetTop <= offset &&
+          el.offsetTop + el.offsetHeight > offset
+        ) {
           setActive(id);
         }
       }
@@ -38,8 +41,8 @@ export const Sidebar = () => {
         className="rounded-full  inset-shadow-sm inset-shadow-white/20"
         loading="eager"
       />
-      <Toogle/>
-      
+      <Toogle />
+
       <nav className="mt-10 w-full">
         {[
           { id: "about", label: t("about") },

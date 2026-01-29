@@ -9,15 +9,15 @@ type Props = {
 
 const CarouselModal = ({ images, display, onClose }: Props) => {
   return (
-    <div
-      className="carousel_modal"
-      onClick={onClose}
-    >
-      <div className="flex w-225 max-w-full" onClick={(e) => e.stopPropagation()}>
+    <div className="carousel_modal" onClick={onClose}>
+      <div
+        className="flex w-225 max-w-full"
+        onClick={(e) => e.stopPropagation()}
+      >
         <Carousel3D display={display} images={images} />
       </div>
     </div>
   );
-}
+};
 
 export default CarouselModal;

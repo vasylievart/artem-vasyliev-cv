@@ -9,10 +9,8 @@ export const fetchProjectData = async <T>(
   signal?: AbortSignal
 ): Promise<T> => {
   const path = tag
-  
     ? `/data/${resource}/${tag}-${display}.${lang}.json`
-    : `/data/${resource}/${section}.${lang}.json`
-
+    : `/data/${resource}/${section}.${lang}.json`;
 
   const res = await fetch(path, { signal });
 
@@ -22,5 +20,3 @@ export const fetchProjectData = async <T>(
 
   return res.json() as Promise<T>;
 };
-
-

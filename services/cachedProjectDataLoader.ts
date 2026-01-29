@@ -2,8 +2,7 @@ import { fetchProjectData } from "@/api/fetchProjectData";
 import { deleteCache, getCache, setCache } from "./projectCache";
 import { DisplayType, ResourceType, SectionType, TagType } from "@/types";
 
-const TTL = 5* 60* 1000; 
-
+const TTL = 5 * 60 * 1000;
 
 export async function cachedProjectDataLoader<T>(
   resource: ResourceType,
@@ -22,18 +21,23 @@ export async function cachedProjectDataLoader<T>(
     return cached.data;
   }
 
-
   if (cached?.promise) {
     return cached.promise;
   }
 
-
-  const promise = fetchProjectData<T>(resource, lang, section, display, tag, signal)
-    .then(data => {
+  const promise = fetchProjectData<T>(
+    resource,
+    lang,
+    section,
+    display,
+    tag,
+    signal
+  )
+    .then((data) => {
       setCache(key, { data, timestamp: Date.now() });
       return data;
     })
-    .catch(err => {
+    .catch((err) => {
       deleteCache(key);
       throw err;
     });
