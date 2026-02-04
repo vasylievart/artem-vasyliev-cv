@@ -1,14 +1,9 @@
 import Image from "next/image";
-import { RefObject } from "react";
-import { Project, TagType } from "@/types";
+import { LaptopModalProps,  TagType } from "@/types";
 
-type Props = {
-  project: Project;
-  onOpen: (tag: TagType, display: "desktop") => void;
-  laptopRef: RefObject<HTMLDivElement | null>;
-};
 
-const LaptopPreviewModal = ({ project, onOpen, laptopRef }: Props) => {
+
+const LaptopPreviewModal = ({ project, onOpen, laptopRef }: LaptopModalProps) => {
   return (
     <div
       ref={laptopRef}

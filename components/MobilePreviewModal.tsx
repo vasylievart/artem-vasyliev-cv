@@ -1,14 +1,9 @@
 import Image from "next/image";
-import { RefObject } from "react";
-import { Project, TagType } from "@/types";
+import { MobileModalProps, TagType } from "@/types";
 
-type Props = {
-  project: Project;
-  onOpen: (tag: TagType, display: "mobile") => void;
-  mobileRef: RefObject<HTMLDivElement | null>;
-};
 
-const MobilePreviewModal = ({ project, onOpen, mobileRef }: Props) => {
+
+const MobilePreviewModal = ({ project, onOpen, mobileRef }: MobileModalProps) => {
   return (
     <div
       ref={mobileRef}

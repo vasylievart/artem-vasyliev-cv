@@ -1,14 +1,8 @@
 "use client";
 
+import { Lang, LanguageContextProps } from "@/types";
 import { createContext, useContext, useState } from "react";
 
-type Lang = "en" | "es";
-
-interface LanguageContextProps {
-  lang: Lang;
-  toggleLang: () => void;
-  t: (key: string) => string;
-}
 
 const translations: Record<Lang, Record<string, string>> = {
   en: {

@@ -1,5 +1,13 @@
 import { RefObject } from "react";
 
+export type Lang = "en" | "es";
+
+export interface LanguageContextProps {
+  lang: Lang;
+  toggleLang: () => void;
+  t: (key: string) => string;
+}
+
 export interface AboutMeProp {
   title: string;
   story: string;
@@ -82,4 +90,27 @@ export type ProjectCache<T> = {
 export type AnimationParams = {
   laptopRef: RefObject<HTMLDivElement | null>;
   mobileRef: RefObject<HTMLDivElement | null>;
+};
+
+export type LaptopModalProps = {
+  project: Project;
+  onOpen: (tag: TagType, display: "desktop") => void;
+  laptopRef: RefObject<HTMLDivElement | null>;
+};
+
+export type MobileModalProps = {
+  project: Project;
+  onOpen: (tag: TagType, display: "mobile") => void;
+  mobileRef: RefObject<HTMLDivElement | null>;
+};
+
+export type Carousel3DProps = {
+  images: CarouselImage[];
+  display?: DisplayType;
+};
+
+export type CarouselModalProps = {
+  images: CarouselImage[];
+  display?: DisplayType;
+  onClose: () => void;
 };

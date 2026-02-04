@@ -2,17 +2,14 @@
 
 import { useState } from "react";
 import clsx from "clsx";
-import { CarouselImage, DisplayType } from "@/types";
+import { Carousel3DProps, DisplayType } from "@/types";
 import CarouselCard from "./CarouselCard";
 import { useCarouselPositions } from "@/hooks/useCarouselPositions";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 
-type Props = {
-  images: CarouselImage[];
-  display?: DisplayType;
-};
 
-export default function Carousel3D({ images, display }: Props) {
+
+export default function Carousel3D({ images, display }: Carousel3DProps) {
   const [active, setActive] = useState(0);
   const { getSlideClass } = useCarouselPositions(images.length, active);
 

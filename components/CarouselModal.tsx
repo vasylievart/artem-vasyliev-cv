@@ -1,13 +1,9 @@
 import Carousel3D from "@/components/Carousel3D";
-import { CarouselImage, DisplayType } from "@/types";
+import {CarouselModalProps } from "@/types";
 
-type Props = {
-  images: CarouselImage[];
-  display?: DisplayType;
-  onClose: () => void;
-};
 
-const CarouselModal = ({ images, display, onClose }: Props) => {
+
+const CarouselModal = ({ images, display, onClose }: CarouselModalProps) => {
   return (
     <div className="carousel_modal" onClick={onClose}>
       <div
